@@ -1,0 +1,9 @@
+Variable: Forma de almacenar un dato o valor, para ser usado cada vez que se lo necesite.
+String: Cadena de texto, va entre "" o ''.
+Funcion: Son un objeto de Js que permite guardar un codigo que luego se necesite repetir varias veces, 
+        evitando tener que escribir lo mismo varias veces.
+        A este se le puede introducir argumentos en el ().
+        La declaracion Return que se suele usar en las funciones sirve para devolver un valor, el cual sale de la funcion.
+        Lo que esté despues de "return" no se hará debido a que se detiene la funcion en ese momento.
+If: Declaracion condicional que permite establecer que se ejecute un codigo solo si se cumple una condicion.
+Valores Booleanos: Son aquellos que solo pueden tener 2 posibles resultados, true o false.
