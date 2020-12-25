@@ -1,0 +1,7 @@
+For: Es un bucle que nos permite realizar tareas repetitivas, evalua expresiones una y otra vez hasta que 
+    devuelve lo que estamos buscando o se detiene despues de cierto tiempo.
+Operadores Logicos: Son operadores que nos permiten comparar 2 expresiones de igualdad y preguntar si ambas 
+    son V, si al menos 1 de las 2 lo es o si ninguna es V.
+        &&: Devuelve true si ambas son V.
+        ||: Devuelve true si al menos 1 de ellas es V.
+        !: Devuelve el valor booleano opuesto de lo que le pasamos.
