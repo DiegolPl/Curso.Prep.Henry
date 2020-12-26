@@ -1,0 +1,1 @@
+Array: Es un contenedor de almacenamiento de datos, el cual puede contener muchos datos (pueden ser de cualquier tipo).
