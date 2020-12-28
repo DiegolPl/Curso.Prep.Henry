@@ -1,0 +1,5 @@
+Objeto: Es algo que nos permite almacenar datos en forma de propiedad : valor, es decir, ponerles algo como un titulo a cada valor.
+Propiedad: Es el titulo de cada dato almacenado en el objeto.
+Metodo: Se llama asi a toda funcion declarada dentro de un objeto.
+Bucle For..in: Es un bucle que nos permite recorrer todos los elementos de un objeto.
+Notación de puntos vs notación de corchetes: Son las 2 maneras de acceder a un valor de un objeto.
